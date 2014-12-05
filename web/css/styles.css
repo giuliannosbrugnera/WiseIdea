@@ -1,0 +1,22 @@
+.needStyle {
+    border-top: 1px solid #ddd;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+#loteheading {
+    color: #333;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+}
+
+.goCenter, table > thead > tr > th, td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#jumboReportSell {
+	background-color: #fff;
+	border-style: solid;
+	border-width: 1px;
+}
